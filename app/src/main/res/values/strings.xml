@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EndfieldHUD</string>
+    <string name="tile_label">EndfieldHUD 悬浮窗</string>
+    <string name="notif_channel_hud">HUD 服务</string>
+    <string name="notif_channel_hud_desc">EndfieldHUD 常驻服务通知</string>
+    <string name="notif_channel_alert">计时提醒</string>
+    <string name="notif_channel_alert_desc">计时器结束提醒</string>
+</resources>
